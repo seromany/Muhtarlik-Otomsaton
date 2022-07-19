@@ -1,0 +1,79 @@
+C:\Users\Serhat\Desktop\Muhtarlik\Muhtarlik\Muhtarlik\bin\Debug\Muhtarlik.exe
+C:\Users\Serhat\Desktop\Muhtarlik\Muhtarlik\Muhtarlik\bin\Debug\Muhtarlik.pdb
+C:\Users\Serhat\Desktop\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form1.resources
+C:\Users\Serhat\Desktop\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Properties.Resources.resources
+C:\Users\Serhat\Desktop\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.csproj.GenerateResource.Cache
+C:\Users\Serhat\Desktop\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.exe
+C:\Users\Serhat\Desktop\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.pdb
+C:\Users\Serhat\Desktop\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form2.resources
+C:\Users\Serhat\Desktop\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form4.resources
+C:\Users\Serhat\Desktop\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form5.resources
+C:\Users\Serhat\Desktop\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form6.resources
+C:\Users\Serhat\Desktop\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form7.resources
+C:\Users\Serhat\Desktop\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form8.resources
+C:\Users\Serhat\Desktop\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.csprojResolveAssemblyReference.cache
+C:\Users\Serhat\Desktop\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form3.resources
+C:\Users\Samir\Desktop\Muhtarlik\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.exe
+C:\Users\Samir\Desktop\Muhtarlik\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.pdb
+C:\Users\Samir\Desktop\Muhtarlik\Muhtarlik\Muhtarlik\Muhtarlik\bin\Debug\Muhtarlik.exe
+C:\Users\Samir\Desktop\Muhtarlik\Muhtarlik\Muhtarlik\Muhtarlik\bin\Debug\Muhtarlik.pdb
+C:\Users\Samir\Desktop\Muhtarlik\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.csprojResolveAssemblyReference.cache
+C:\Users\Samir\Desktop\Muhtarlik\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form1.resources
+C:\Users\Samir\Desktop\Muhtarlik\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form2.resources
+C:\Users\Samir\Desktop\Muhtarlik\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form3.resources
+C:\Users\Samir\Desktop\Muhtarlik\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form4.resources
+C:\Users\Samir\Desktop\Muhtarlik\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form5.resources
+C:\Users\Samir\Desktop\Muhtarlik\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form6.resources
+C:\Users\Samir\Desktop\Muhtarlik\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form7.resources
+C:\Users\Samir\Desktop\Muhtarlik\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form8.resources
+C:\Users\Samir\Desktop\Muhtarlik\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Properties.Resources.resources
+C:\Users\Samir\Desktop\Muhtarlik\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.csproj.GenerateResource.Cache
+C:\Users\Serhat\programlama\programlama proje\Muhtarlik-designed\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.exe
+C:\Users\Serhat\programlama\programlama proje\Muhtarlik-designed\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.pdb
+C:\Users\Serhat\programlama\programlama proje\Muhtarlik-designed\Muhtarlik\Muhtarlik\Muhtarlik\bin\Debug\Muhtarlik.exe
+C:\Users\Serhat\programlama\programlama proje\Muhtarlik-designed\Muhtarlik\Muhtarlik\Muhtarlik\bin\Debug\Muhtarlik.pdb
+C:\Users\Serhat\programlama\programlama proje\Muhtarlik-designed\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.csprojResolveAssemblyReference.cache
+C:\Users\Serhat\programlama\programlama proje\Muhtarlik-designed\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form1.resources
+C:\Users\Serhat\programlama\programlama proje\Muhtarlik-designed\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form2.resources
+C:\Users\Serhat\programlama\programlama proje\Muhtarlik-designed\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form3.resources
+C:\Users\Serhat\programlama\programlama proje\Muhtarlik-designed\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form4.resources
+C:\Users\Serhat\programlama\programlama proje\Muhtarlik-designed\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form5.resources
+C:\Users\Serhat\programlama\programlama proje\Muhtarlik-designed\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form6.resources
+C:\Users\Serhat\programlama\programlama proje\Muhtarlik-designed\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form7.resources
+C:\Users\Serhat\programlama\programlama proje\Muhtarlik-designed\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form8.resources
+C:\Users\Serhat\programlama\programlama proje\Muhtarlik-designed\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Properties.Resources.resources
+C:\Users\Serhat\programlama\programlama proje\Muhtarlik-designed\Muhtarlik\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.csproj.GenerateResource.Cache
+C:\Users\Serhat\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.exe
+C:\Users\Serhat\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.pdb
+C:\Users\Serhat\Muhtarlik\Muhtarlik\bin\Debug\Muhtarlik.exe
+C:\Users\Serhat\Muhtarlik\Muhtarlik\bin\Debug\Muhtarlik.pdb
+C:\Users\Serhat\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.csprojResolveAssemblyReference.cache
+C:\Users\Serhat\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form1.resources
+C:\Users\Serhat\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form2.resources
+C:\Users\Serhat\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form3.resources
+C:\Users\Serhat\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form4.resources
+C:\Users\Serhat\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form5.resources
+C:\Users\Serhat\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form6.resources
+C:\Users\Serhat\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form7.resources
+C:\Users\Serhat\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form8.resources
+C:\Users\Serhat\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Properties.Resources.resources
+C:\Users\Serhat\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.csproj.GenerateResource.Cache
+C:\Users\Serhat\Desktop\Hayef\classes\programlama\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.exe
+C:\Users\Serhat\Desktop\Hayef\classes\programlama\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.pdb
+C:\Users\Serhat\Desktop\Hayef\classes\programlama\Muhtarlik\Muhtarlik\bin\Debug\Muhtarlik.exe
+C:\Users\Serhat\Desktop\Hayef\classes\programlama\Muhtarlik\Muhtarlik\bin\Debug\Muhtarlik.pdb
+C:\Users\Serhat\Desktop\Hayef\classes\programlama\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.csprojResolveAssemblyReference.cache
+C:\Users\Serhat\Desktop\Hayef\classes\programlama\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form1.resources
+C:\Users\Serhat\Desktop\Hayef\classes\programlama\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form2.resources
+C:\Users\Serhat\Desktop\Hayef\classes\programlama\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form3.resources
+C:\Users\Serhat\Desktop\Hayef\classes\programlama\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form4.resources
+C:\Users\Serhat\Desktop\Hayef\classes\programlama\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form5.resources
+C:\Users\Serhat\Desktop\Hayef\classes\programlama\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form6.resources
+C:\Users\Serhat\Desktop\Hayef\classes\programlama\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form7.resources
+C:\Users\Serhat\Desktop\Hayef\classes\programlama\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Form8.resources
+C:\Users\Serhat\Desktop\Hayef\classes\programlama\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.Properties.Resources.resources
+C:\Users\Serhat\Desktop\Hayef\classes\programlama\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.csproj.GenerateResource.Cache
+D:\Hayef\classes\programlama\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.exe
+D:\Hayef\classes\programlama\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.pdb
+D:\serhat\Hayef\classes\programlama\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.exe
+D:\serhat\Hayef\classes\programlama\Muhtarlik\Muhtarlik\obj\x86\Debug\Muhtarlik.pdb
